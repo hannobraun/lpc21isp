@@ -1,3 +1,6 @@
+This is a fork of lpc21isp that includes support for LPC82x parts. The upstream version is available here:
+https://sourceforge.net/projects/lpc21isp/
+
 /******************************************************************************
 
 Project:           Portable command line ISP for NXP LPC family
